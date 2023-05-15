@@ -1,0 +1,1 @@
+define({ availableImg: ["Beck2016Visual","brown2020language","9141886","9782908","8752633","8098832","9984608","Radford2018ImprovingLU","7570964","4309979","9898877"]});
